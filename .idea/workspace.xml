@@ -18,7 +18,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/htmlFile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
+            <state relative-caret-position="284">
               <caret line="233" column="12" selection-start-line="233" selection-start-column="12" selection-end-line="234" selection-end-column="16" />
             </state>
           </provider>
@@ -39,7 +39,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -51,6 +50,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -82,16 +82,16 @@
       <updated>1551064958708</updated>
       <workItem from="1551064960173" duration="138000" />
       <workItem from="1557463916528" duration="1540000" />
-      <workItem from="1557510831279" duration="297000" />
+      <workItem from="1557510831279" duration="547000" />
+      <workItem from="1557529680617" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1975000" />
+    <option name="totallyTimeSpent" value="2239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14694202" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -118,7 +118,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/htmlFile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
+        <state relative-caret-position="284">
           <caret line="233" column="12" selection-start-line="233" selection-start-column="12" selection-end-line="234" selection-end-column="16" />
         </state>
       </provider>
